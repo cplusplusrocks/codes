@@ -17,7 +17,7 @@ class Ideone
 		int l1,l2,l3;
 		l3=s3.length();
 		int i;
-		for( i=0;i<l3;i++)
+		for( i=0;i<=12;i++)
 		{
 			char ch=s3.charAt(i);
 			if(ch==' ')
